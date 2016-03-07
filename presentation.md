@@ -1,5 +1,5 @@
-##TODO: Add your presentations title
-<p><br/><br/><small>TODO: Add your name</a></small></p>
+##Awesome Presentation
+<p><br/><br/><small>Some special presentation magic </a></small></p>
 
 
 ###Vertical Slide 1
